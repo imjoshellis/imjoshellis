@@ -2,7 +2,7 @@
 
 📥 josh@imjoshellis.com
 
-![Josh’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=imjoshellis&show_icons=true&theme=tokyonight)
+![Josh’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=imjoshellis&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true)
 
 
 
