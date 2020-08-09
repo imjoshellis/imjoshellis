@@ -1,21 +1,29 @@
-# Hi there, I’m Josh Ellis 👋
+# 👋️ I’m Josh Ellis, a Full Stack React/Rails Developer, currently hiding from COVID somewhere in the Chicago area
 
-[email (josh@imjoshellis.com)](josh@imjoshellis.com) &bull; [website (imjoshellis.com)](https://imjoshellis.com) &bull; [linkedin](https://linkedin.com/in/imjoshellis) &bull; [twitter](https://twitter.com/imjoshellis)
-
-### I'm a Full Stack React/Rails Developer, currently hiding from COVID somewhere in the Chicago area
+[josh@imjoshellis.com](josh@imjoshellis.com) &bull; [(website coming soon)](https://imjoshellis.com) &bull; [linkedin](https://linkedin.com/in/imjoshellis) &bull; [twitter](https://twitter.com/imjoshellis)
 
 ## 👨🏻‍💻 Active Projects
 
-+ 🎲️ [BG Quickstart](bgquickstart.com) ([repo](https://github.com/imjoshellis/bg-quickstart))
++ 🎲️ [BG Quickstart](https://bgquickstart.com) ([repo](https://github.com/imjoshellis/bg-quickstart))
 + 📋️ Just Do Three (coming soon) ([repo](https://github.com/imjoshellis/just-do-three))
 
-## 🎓️ Education
+## 📜️ Summary
 
-+ 2020 Software Engineering @ Flatiron School
+From 2011 to 2020, I designed and built WordPress, Shopify, and SquareSpace websites and created marketing graphics for a wide variety of businesses and clients.
 
-## 📊️ Language Stats
+In 2019, I started looking to get more into "real" development and taught myself the basics of React to build a simple PWA ([BG Quickstart](https://bgquickstart.com)) to scratch my own itch.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imjoshellis&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+I enjoyed the process more than I thought I would, so I immediately started planning more ideas while consuming as much free learning material as possible.
+
+In early 2020, I decided to pursue development as a career, and I chose to enroll in Flatiron School's self-paced online program because I wanted to make sure I learned all the important concepts of Full Stack development in a structured way.
+
+**I'll be graduating in a few weeks, and I'm actively searching for opportunities in tech.**
+
+**If you're looking for a React developer who's a self-starter, eager to grow, and excited to learn, let's chat!**
+
+---
+
+🎓️ 2020 Software Engineering @ Flatiron School
 
 <!--
 **imjoshellis/imjoshellis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
