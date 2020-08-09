@@ -1,13 +1,21 @@
-### Hi there, I’m Josh Ellis 👋
+# Hi there, I’m Josh Ellis 👋
 
-📥 josh@imjoshellis.com
+[email (josh@imjoshellis.com)](josh@imjoshellis.com) &bull; [website (imjoshellis.com)](https://imjoshellis.com) &bull; [linkedin](https://linkedin.com/in/imjoshellis) &bull; [twitter](https://twitter.com/imjoshellis)
 
-[![Josh’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=imjoshellis&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&hide=stars&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+## I'm a Full Stack React/Rails Developer, currently hiding from COVID somewhere in the Chicago area
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## 👨🏻‍💻 Active Projects
 
++ 🎲️ [BG Quickstart](bgquickstart.com) ([repo](https://github.com/imjoshellis/bg-quickstart))
++ 📋️ Just Do Three (coming soon) ([repo](https://github.com/imjoshellis/just-do-three))
 
+## 🎓️ Education
 
++ 2020 Software Engineering @ Flatiron School
+
+## 📊️ Language Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imjoshellis&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **imjoshellis/imjoshellis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
