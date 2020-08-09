@@ -2,7 +2,10 @@
 
 📥 josh@imjoshellis.com
 
-[![Josh’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=imjoshellis&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Josh’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=imjoshellis&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&hide=stars&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
