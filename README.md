@@ -2,7 +2,7 @@
 
 [email (josh@imjoshellis.com)](josh@imjoshellis.com) &bull; [website (imjoshellis.com)](https://imjoshellis.com) &bull; [linkedin](https://linkedin.com/in/imjoshellis) &bull; [twitter](https://twitter.com/imjoshellis)
 
-## I'm a Full Stack React/Rails Developer, currently hiding from COVID somewhere in the Chicago area
+### I'm a Full Stack React/Rails Developer, currently hiding from COVID somewhere in the Chicago area
 
 ## 👨🏻‍💻 Active Projects
 
