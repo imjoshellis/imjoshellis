@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I’m Josh Ellis 👋
+
+📥 josh@imjoshellis.com
+
+![Josh’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=imjoshellis&show_icons=true&theme=tokyonight)
+
+
 
 <!--
 **imjoshellis/imjoshellis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
