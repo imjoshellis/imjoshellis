@@ -22,7 +22,7 @@ Built Progressive Web App for quickly choosing a start player for board games. [
 
 ### Owner/Designer, LioncastleCreative.com · Irvine, CA (& Remote) · Oct 2016 – Feb 2020
 
-Built Wordpress/Shopify/Squarespace websites, created print/digital marketing materials, and designed branding. Included redesigning retail packaging that nearly doubled client's sales. [Adobe XD, Illustrator, Photoshop, InDesign, Figma, Wordpress, Shopify, WooCommerce]
+Built Wordpress/Shopify/Squarespace websites, created print/digital marketing materials, and designed branding. Included redesigning retail packaging that nearly doubled client's sales. [Adobe XD, Illustrator, Photoshop, InDesign, Figma, Sketch, Wordpress, Shopify, WooCommerce]
 
 ### Marketing Strategist, Optimize Worldwide · Redding, CA · Nov 2015 – Sep 2016
 
