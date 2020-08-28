@@ -1,6 +1,6 @@
 # 👋️ I’m Josh Ellis, a Full Stack React/Rails Developer, currently hiding from COVID somewhere in the Chicago area
 
-[josh@imjoshellis.com](josh@imjoshellis.com) &bull; [(website coming soon)](https://imjoshellis.com) &bull; [linkedin](https://linkedin.com/in/imjoshellis) &bull; [twitter](https://twitter.com/imjoshellis)
+[josh@imjoshellis.com](josh@imjoshellis.com) &bull; [portfolio (imjoshellis.com)](https://imjoshellis.com) &bull; [linkedin](https://linkedin.com/in/imjoshellis) &bull; [twitter](https://twitter.com/imjoshellis)
 
 ## 👨🏻‍💻 Active Projects
 
