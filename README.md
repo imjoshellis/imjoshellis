@@ -42,4 +42,4 @@ What's next in 2020?
 
 ## 👋🏼️ Let's Connect!
 
-Whether you're looking to hire an eager self-starter or just looking to build your network, I'd love to hear your story. DMs are open on [LinkedIn](https://linkedin.com/in/imjoshellis)/[Twitter](https://twitter.com/imjoshells) (@imjoshellis). Or send me an email if you prefer: josh@imjoshellis.com
+Whether you're looking to hire an eager self-starter or build your network, I'd love to hear your story. 📥️ DMs are open on [LinkedIn](https://linkedin.com/in/imjoshellis)/[Twitter](https://twitter.com/imjoshells) (@imjoshellis). Or send me an email if you prefer: josh@imjoshellis.com

@@ -33,7 +33,7 @@ What's next in 2020?
 
 ## 👋🏼️ Let's Connect!
 
-Whether you're looking to hire an eager self-starter or just looking to build your network, I'd love to hear your story. DMs are open here on LinkedIn and elsewhere if you prefer:
+Whether you're looking to hire an eager self-starter or build your network, I'd love to hear your story. DMs are open here on LinkedIn and elsewhere if you prefer:
 
 [imjoshellis.com](https://imjoshellis.com) • [dev.to (blog)](https://dev.to/imjoshellis) • [josh@imjoshellis.com](mailto:josh@imjoshellis.com) • [github](https://github.com/imjoshellis) • [twitter](https://twitter.com/imjoshellis)
 
