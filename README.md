@@ -1,6 +1,8 @@
-# 👋️ I’m Josh Ellis, a Full Stack React/Rails Developer, currently hiding from COVID somewhere in the Chicago area
+# Hi, I'm Josh Ellis
 
-[josh@imjoshellis.com](josh@imjoshellis.com) &bull; [portfolio (imjoshellis.com)](https://imjoshellis.com) &bull; [linkedin](https://linkedin.com/in/imjoshellis) &bull; [twitter](https://twitter.com/imjoshellis)
+ Software Engineer ⋅ TypeScript / React / Ruby on Rails ⋅ 🎓️ @FlatironSchool
+
+[josh@imjoshellis.com](josh@imjoshellis.com) &bull; [portfolio (imjoshellis.com)](https://imjoshellis.com) &bull; [blog](https://dev.to/imjoshellis) &bull; [linkedin](https://linkedin.com/in/imjoshellis) &bull; [twitter](https://twitter.com/imjoshellis)
 
 ## 👨🏻‍💻 Active Projects
 
@@ -9,33 +11,35 @@
 
 ## 📜️ Summary
 
-From 2011 to 2020, I designed and built WordPress, Shopify, and SquareSpace websites and created marketing graphics for a wide variety of businesses and clients.
+I craft products that simplify the human experience.
 
-In 2019, I started looking to get more into "real" development and taught myself the basics of React to build a simple PWA ([BG Quickstart](https://bgquickstart.com)) to scratch my own itch.
+Innovative tech excites me, especially when it's related to productivity, minimalism, mental health, tabletop games, or travel. Though I focus on the front end of web development using TypeScript/JavaScript frameworks like React, I'm experienced building both Express/NodeJS and Ruby on Rails on the back end.
 
-I enjoyed the process more than I thought I would, so I immediately started planning more ideas while consuming as much free learning material as possible.
+My eight-year background in print, graphic, and web design gave me an understanding of how to engage with visuals, iterate on ideas, and create within specs. In 2019, I got my first real taste of building an app because I decided to build one for myself.
 
-In early 2020, I decided to pursue development as a career, and I chose to enroll in Flatiron School's self-paced online program because I wanted to make sure I learned all the important concepts of Full Stack development in a structured way.
+## 🎲️ My First App
 
-**I'll be graduating in a few weeks, and I'm actively searching for opportunities in tech.**
+I created my first real app, [BGQuickstart.com](https://bgquickstart.com), because I wanted a faster way to choose a start player when playing board games with friends. After teaching myself React, I realized I had fallen in love with the feeling of solving problems with code and immediately started planning my next app.
 
-**If you're looking for a React developer who's a self-starter, eager to grow, and excited to learn, let's chat!**
+After some time, I decided to switch to a career in software engineering and joined Flatiron School's to accelerate the transition.
 
----
+## 🎓️ Flatiron School
 
-🎓️ 2020 Software Engineering @ Flatiron School
+At Flatiron, I learned Ruby, Ruby on Rails, JavaScript, and React. It was exciting to learn how to work with the back end side of things. Databases, controllers, and routing were always confusing when I tried to learn it on my own. But after learning the basics at Flatiron, I've already gone on to learn my way around Express, GraphQL, and NodeJS to expand my backend repertoire.
 
-<!--
-**imjoshellis/imjoshellis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm thrilled to continue expanding the skill-set I developed as a student at Flatiron School.
 
-Here are some ideas to get you started:
+## 👨🏻‍🎓️ Beyond Flatiron
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What's next in 2020?
+
+- [ ] Continue development of current and future side projects
+- [ ] Set up tests and landing pages for side projects
+- [ ] Get in the flow of contributing to open source projects
+- [ ] Learn more tech (Vue, MongoDB, Swift, Java, Python, Machine Learning, to name a few)
+- [ ] Find an opportunity to build innovative products with a team
+- [ ] Establish three solid relationships with tech mentors
+
+## 👋🏼️ Let's Connect!
+
+Whether you're looking to hire an eager self-starter or just looking to build your network, I'd love to hear your story. DMs are open on [LinkedIn](https://linkedin.com/in/imjoshellis)/[Twitter](https://twitter.com/imjoshells) (@imjoshellis). Or send me an email if you prefer: josh@imjoshellis.com
