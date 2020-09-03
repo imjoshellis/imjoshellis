@@ -1,6 +1,6 @@
 # Josh Ellis
 
-[imjoshellis.com](https://imjoshellis.com) · Greater Chicago Area, IL · (630) 965-4976 · josh@imjoshellis.com
+[imjoshellis.com](https://imjoshellis.com) · Chicago, IL · (630) 965-4976 · josh@imjoshellis.com
 
 ## Experience
 
