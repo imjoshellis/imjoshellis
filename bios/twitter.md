@@ -1,1 +1,1 @@
-I craft products that simplify the human experience. Passionate about innovation in productivity, board games, and travel. Software Engineer via @FlatironSchool
+he/him • Crafting products that simplify the human experience. I'm passionate about innovative tech in productivity 📋️, mental health 🧘‍♂️️, and travel 🏕️.
