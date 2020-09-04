@@ -11,9 +11,9 @@
 
 ## 📜️ Summary
 
-I craft products that simplify the human experience.
+Crafting products that simplify the human experience.
 
-Innovative tech excites me, especially when it's related to productivity, minimalism, mental health, tabletop games, or travel. Though I focus on the front end of web development using TypeScript/JavaScript frameworks like React, I'm experienced building both Express/NodeJS and Ruby on Rails on the back end.
+I’m passionate about innovative tech in productivity, minimalism, mental health, tabletop games, and travel. Though I focus on the front end of web development using TypeScript/JavaScript frameworks like React, I'm experienced building both Express/NodeJS and Ruby on Rails on the back end.
 
 My eight-year background in print, graphic, and web design gave me an understanding of how to engage with visuals, iterate on ideas, and create within specs. In 2019, I got my first real taste of building an app because I decided to build one for myself.
 
