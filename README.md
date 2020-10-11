@@ -1,12 +1,14 @@
 # Hi, I'm Josh Ellis
 
- Software Engineer ⋅ TypeScript / React / Ruby on Rails ⋅ 🎓️ @FlatironSchool
+ Software Engineer ⋅ TypeScript / React / GraphQL / Node / Learning: Go ⋅ 🎓️ @FlatironSchool
 
 [josh@imjoshellis.com](josh@imjoshellis.com) &bull; [portfolio (imjoshellis.com)](https://imjoshellis.com) &bull; [blog](https://dev.to/imjoshellis) &bull; [linkedin](https://linkedin.com/in/imjoshellis) &bull; [twitter](https://twitter.com/imjoshellis)
 
 ## 👨🏻‍💻 Active Projects
 
 + 🎲️ [BG Quickstart](https://bgquickstart.com) ([repo](https://github.com/imjoshellis/bg-quickstart))
++ 🤝 [Mentor Mesh Community](https://mentor-mesh.mn.co/share/8-y5RydC-5gsIIPY?utm_source=manual)
++ ⌨ [KBD Endgame - CRUD, OAuth, Node, GraphQL, Docker, React](https://kbdendgame.com) ([repo](https://github.com/imjoshellis/KBDEndgame.com-WEB))
 + 📋️ Just Do Three (coming soon) ([repo](https://github.com/imjoshellis/just-do-three))
 
 ## 📜️ Summary
