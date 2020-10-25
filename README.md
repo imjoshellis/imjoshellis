@@ -1,13 +1,13 @@
 # Hi, I'm Josh Ellis
 
- Software Engineer ⋅ TypeScript / React / GraphQL / Node / Learning: Go ⋅ 🎓️ @FlatironSchool
+ Software Engineer ⋅ TypeScript / React / GraphQL / Node / Currently Learning: Scala/Microservices ⋅ 🎓️ @FlatironSchool
 
 [josh@imjoshellis.com](josh@imjoshellis.com) &bull; [portfolio (imjoshellis.com)](https://imjoshellis.com) &bull; [blog](https://dev.to/imjoshellis) &bull; [linkedin](https://linkedin.com/in/imjoshellis) &bull; [twitter](https://twitter.com/imjoshellis)
 
 ## 👨🏻‍💻 Active Projects
 
 + 🎲️ [BG Quickstart](https://bgquickstart.com) ([repo](https://github.com/imjoshellis/bg-quickstart))
-+ 🤝 [Mentor Mesh Community](https://mentor-mesh.mn.co/share/8-y5RydC-5gsIIPY?utm_source=manual)
++ 🎟️ Tickets App (built to learn microservices) - Docker/Kubernetes, Jest, Ingress, NATS, CRUD, Auth, Node, GraphQL, Stripe, React, NextJS ([repo](https://github.com/imjoshellis/tickets))
 + ⌨ [KBD Endgame - CRUD, OAuth, Node, GraphQL, Docker, React](https://kbdendgame.com) ([repo](https://github.com/imjoshellis/KBDEndgame.com-WEB))
 + 📋️ Just Do Three (coming soon) ([repo](https://github.com/imjoshellis/just-do-three))
 
@@ -35,10 +35,12 @@ I'm thrilled to continue expanding the skill-set I developed as a student at Fla
 
 What's next in 2020?
 
-- [ ] Continue development of current and future side projects
+- [x] Continue development of current and future side projects
 - [ ] Set up tests and landing pages for side projects
 - [ ] Get in the flow of contributing to open source projects
-- [ ] Learn more tech (Vue, MongoDB, Swift, Java, Python, Machine Learning, to name a few)
+- [x] Learn Mongo
+- [x] Learn Docker/Kubernetes/Microservices
+- [x] Learn Scala
 - [ ] Find an opportunity to build innovative products with a team
 - [ ] Establish three solid relationships with tech mentors
 
