@@ -7,7 +7,7 @@
 ## 👨🏻‍💻 Active Projects
 
 + 🎲️ [BG Quickstart](https://bgquickstart.com) ([repo](https://github.com/imjoshellis/bg-quickstart))
-+ 🎟️ Tickets App (built to learn microservices) - Docker/Kubernetes, Jest, Ingress, NATS, CRUD, Auth, Node, GraphQL, Stripe, React, NextJS ([repo](https://github.com/imjoshellis/tickets))
++ 🎟️ [Tickets App](https://ticketapp.dev) (built to learn microservices) - Docker/Kubernetes, Jest, Ingress, NATS, CRUD, Auth, Node, GraphQL, Stripe, React, NextJS ([repo](https://github.com/imjoshellis/tickets))
 + ⌨ [KBD Endgame - CRUD, OAuth, Node, GraphQL, Docker, React](https://kbdendgame.com) ([repo](https://github.com/imjoshellis/KBDEndgame.com-WEB))
 + 📋️ Just Do Three (coming soon) ([repo](https://github.com/imjoshellis/just-do-three))
 
