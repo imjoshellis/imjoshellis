@@ -7,7 +7,7 @@
 ## 👨🏻‍💻 Active Projects
 
 + 🎲️  [BG Quickstart](https://bgquickstart.com) ([repo](https://github.com/imjoshellis/bg-quickstart))
-+ 📈️  [Visual Algos](https://visualalgos.netlify.app/) ([repo])(https://github.com/imjoshellis/visual-algos)
++ 📈️  [Visual Algos](https://visualalgos.netlify.app/) ([repo](https://github.com/imjoshellis/visual-algos))
 
 ## 📜️ Summary
 
