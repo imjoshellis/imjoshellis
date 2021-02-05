@@ -12,7 +12,7 @@ I've been working at [Endeavor Business Media](https://www.endeavorbusinessmedia
 In my free time, I like to build apps, design board games, and explore national parks. 
 
 ## 👋🏼 Let's Connect!
-📥 DMs are always open. Or you can send me an email if you prefer: [josh@imjoshellis.com](josh@imjoshellis.com)
+📥 DMs are open on Twitter/LinkedIn. Or you can send me an email if you prefer: [josh@imjoshellis.com](josh@imjoshellis.com)
 
 ### Technical Skills
 TypeScript, JavaScript (ES6), Go (golang), Functional Programming (FP), Object Oriented Programming (OOP), Vue (VueJS, Vue.js), Vuex, Nuxt (NuxtJS, Nuxt.js), React (ReactJS, React.js), Next (NextJS, Next.js), Redux, React Router, Server-Side Rendering (SSR), Preact, Svelte (SvelteJS, Svelte.js), Node (NodeJS, Node.js), Apollo, Express (ExpressJS, Express.js), Docker, Kubernetes, Skaffold, Serverless Lambda Functions, Progressive Web App (PWA), OAuth, SQL, PostgreSQL, MySQL, GraphQL, WordPress, SquareSpace, Shopify, Figma, Sketch, Adobe CC
