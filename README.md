@@ -1,4 +1,4 @@
-I craft products that simplify the human experience. TypeScript Engineer. Board Game Designer. National Park Hiker.
+Crafting products that simplify the human experience. TypeScript Engineer. Board Game Designer. National Park Hiker.
 
 [josh@imjoshellis.com](josh@imjoshellis.com) &bull; [portfolio (imjoshellis.com)](https://imjoshellis.com) &bull; [blog](https://dev.to/imjoshellis) &bull; [linkedin](https://linkedin.com/in/imjoshellis) &bull; [twitter](https://twitter.com/imjoshellis)
 
@@ -11,7 +11,5 @@ I craft products that simplify the human experience. TypeScript Engineer. Board 
 
 ### Technical Skills
 ```md
-* Prod: TypeScript, React, React Native, Next.js, Graphql
-* QA:   Node.js, Redis, Postgres, Mongo, Docker, Kubernetes
-* Dev:  Rust, Go
+TypeScript, React, React Native, Next.js, Graphql, Node.js, Redis, Postgres, Mongo, Docker, Kubernetes, Rust, Go
 ```
